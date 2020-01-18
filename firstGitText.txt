@@ -1,3 +1,5 @@
 this is my  first git text command using git scm bash cmd
 
 this is my second git text wish me luck !!!
+
+third and last  attemt for practise
